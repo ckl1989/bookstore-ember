@@ -1,7 +1,6 @@
 # Bookstore
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+http://emberigniter.com/modern-bridge-ember-and-rails-5-with-json-api/
 
 ## Prerequisites
 
