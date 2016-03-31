@@ -1,7 +1,7 @@
-import DS from 'ember-data';
+import ApplicationAdapter from './application';
 
-export default DS.JSONAPIAdapter.extend({
-  shouldReloadRecord(store, snapshot) {
+export default ApplicationAdapter.extend({
+      shouldReloadRecord(store, snapshot) {
     return false;
   },
 
