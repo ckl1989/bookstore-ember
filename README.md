@@ -1,52 +1,16 @@
-# Bookstore
+== README
 
-http://emberigniter.com/modern-bridge-ember-and-rails-5-with-json-api/
+Bookstore - Building a UI Around an Ember Data App
+Bookstore Ember Frontend 
+http://emberigniter.com/building-user-interface-around-ember-data-app/
 
-## Prerequisites
+This is the frontend implementation of a bookstore app ember 2.4.2.
+The UI is built mainly through templates whose models are given directly by their respective routes.
 
-You will need the following things properly installed on your computer.
+This project is frontend only and is complemented with an rails 5 back end found at:
+https://github.com/ckl1989/bookstore-rails-api/
 
-* [Git](http://git-scm.com/)
-* [Node.js](http://nodejs.org/) (with NPM)
-* [Bower](http://bower.io/)
-* [Ember CLI](http://www.ember-cli.com/)
-* [PhantomJS](http://phantomjs.org/)
+This project is intended to exemplify the use of templates, components, nested routes, and displaying information
+from a rails backend through JSON API Adapter.
 
-## Installation
-
-* `git clone <repository-url>` this repository
-* change into the new directory
-* `npm install`
-* `bower install`
-
-## Running / Development
-
-* `ember server`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
-
-### Code Generators
-
-Make use of the many generators for code, try `ember help generate` for more details
-
-### Running Tests
-
-* `ember test`
-* `ember test --server`
-
-### Building
-
-* `ember build` (development)
-* `ember build --environment production` (production)
-
-### Deploying
-
-Specify what it takes to deploy your app.
-
-## Further Reading / Useful Links
-
-* [ember.js](http://emberjs.com/)
-* [ember-cli](http://www.ember-cli.com/)
-* Development Browser Extensions
-  * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
-  * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
-
+Frontend: Ember 2.4.2
