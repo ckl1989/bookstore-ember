@@ -4,7 +4,7 @@ Bookstore - Building a UI Around an Ember Data App
 Bookstore Ember Frontend 
 http://emberigniter.com/building-user-interface-around-ember-data-app/
 
-This is the frontend implementation of a bookstore app ember 2.4.2.
+This is the frontend implementation of a bookstore app using ember 2.4.2.
 The UI is built mainly through templates whose models are given directly by their respective routes.
 
 This project is frontend only and is complemented with an rails 5 back end found at:
